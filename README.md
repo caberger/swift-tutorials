@@ -6,5 +6,5 @@ my English blog about [REST](https://caberger.github.io) and its German version
 [here](http://www.aberger.at/blog).  
 
 Currently the repository contains tutorial source code about:
-1. [Grand Central Dispatch](./grand-central-dispatch)
-2. [REST Client](./json)
+- [Grand Central Dispatch](./grand-central-dispatch)
+- [REST Client](./json)
